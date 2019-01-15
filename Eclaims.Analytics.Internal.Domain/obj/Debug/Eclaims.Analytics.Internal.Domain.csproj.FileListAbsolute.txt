@@ -9,3 +9,15 @@ C:\Projects\FunctionPOC\Eclaims.Analytics.Internal.Domain\obj\Debug\Eclaims.Anal
 C:\Projects\FunctionPOC\Eclaims.Analytics.Internal.Domain\obj\Debug\Eclaims.Analytics.Internal.Domain.csproj.CopyComplete
 C:\Projects\FunctionPOC\Eclaims.Analytics.Internal.Domain\obj\Debug\Eclaims.Analytics.Internal.Domain.dll
 C:\Projects\FunctionPOC\Eclaims.Analytics.Internal.Domain\obj\Debug\Eclaims.Analytics.Internal.Domain.pdb
+C:\Dev\FunctionPOC\Eclaims.Analytics.Internal.Domain\bin\Debug\Eclaims.Analytics.Internal.Domain.dll.config
+C:\Dev\FunctionPOC\Eclaims.Analytics.Internal.Domain\bin\Debug\Eclaims.Analytics.Internal.Domain.dll
+C:\Dev\FunctionPOC\Eclaims.Analytics.Internal.Domain\bin\Debug\Eclaims.Analytics.Internal.Domain.pdb
+C:\Dev\FunctionPOC\Eclaims.Analytics.Internal.Domain\bin\Debug\EntityFramework.dll
+C:\Dev\FunctionPOC\Eclaims.Analytics.Internal.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\FunctionPOC\Eclaims.Analytics.Internal.Domain\bin\Debug\EntityFramework.xml
+C:\Dev\FunctionPOC\Eclaims.Analytics.Internal.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\FunctionPOC\Eclaims.Analytics.Internal.Domain\obj\Debug\Eclaims.Analytics.Internal.Domain.csprojAssemblyReference.cache
+C:\Dev\FunctionPOC\Eclaims.Analytics.Internal.Domain\obj\Debug\Eclaims.Analytics.Internal.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\FunctionPOC\Eclaims.Analytics.Internal.Domain\obj\Debug\Eclaims.Analytics.Internal.Domain.csproj.CopyComplete
+C:\Dev\FunctionPOC\Eclaims.Analytics.Internal.Domain\obj\Debug\Eclaims.Analytics.Internal.Domain.dll
+C:\Dev\FunctionPOC\Eclaims.Analytics.Internal.Domain\obj\Debug\Eclaims.Analytics.Internal.Domain.pdb

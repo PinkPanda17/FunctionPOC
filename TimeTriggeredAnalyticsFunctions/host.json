@@ -1,2 +1,7 @@
 {
+  "extensions": [
+    {
+      "TypeName": "TimeTriggeredAnalyticsFunctions.Startup, Startup"
+    }
+  ]
 }

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTriggeredAnalyticsFunctions", "TimeTriggeredAnalyticsFunctions\TimeTriggeredAnalyticsFunctions.csproj", "{E1C4E19F-C5DA-40C1-8BE8-7695B6D9A8D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeTriggeredAnalyticsFunctions", "TimeTriggeredAnalyticsFunctions\TimeTriggeredAnalyticsFunctions.csproj", "{E1C4E19F-C5DA-40C1-8BE8-7695B6D9A8D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eclaims.Analytics.Internal.Domain", "Eclaims.Analytics.Internal.Domain\Eclaims.Analytics.Internal.Domain.csproj", "{65DA8B2A-2474-4636-AE23-525EB43FDF04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E1C4E19F-C5DA-40C1-8BE8-7695B6D9A8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1C4E19F-C5DA-40C1-8BE8-7695B6D9A8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1C4E19F-C5DA-40C1-8BE8-7695B6D9A8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DA8B2A-2474-4636-AE23-525EB43FDF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DA8B2A-2474-4636-AE23-525EB43FDF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DA8B2A-2474-4636-AE23-525EB43FDF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DA8B2A-2474-4636-AE23-525EB43FDF04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

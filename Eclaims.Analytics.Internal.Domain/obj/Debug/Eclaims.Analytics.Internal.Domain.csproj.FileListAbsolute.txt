@@ -1,0 +1,11 @@
+C:\Projects\FunctionPOC\Eclaims.Analytics.Internal.Domain\bin\Debug\Eclaims.Analytics.Internal.Domain.dll.config
+C:\Projects\FunctionPOC\Eclaims.Analytics.Internal.Domain\bin\Debug\Eclaims.Analytics.Internal.Domain.dll
+C:\Projects\FunctionPOC\Eclaims.Analytics.Internal.Domain\bin\Debug\Eclaims.Analytics.Internal.Domain.pdb
+C:\Projects\FunctionPOC\Eclaims.Analytics.Internal.Domain\bin\Debug\EntityFramework.dll
+C:\Projects\FunctionPOC\Eclaims.Analytics.Internal.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\FunctionPOC\Eclaims.Analytics.Internal.Domain\bin\Debug\EntityFramework.xml
+C:\Projects\FunctionPOC\Eclaims.Analytics.Internal.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\FunctionPOC\Eclaims.Analytics.Internal.Domain\obj\Debug\Eclaims.Analytics.Internal.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\FunctionPOC\Eclaims.Analytics.Internal.Domain\obj\Debug\Eclaims.Analytics.Internal.Domain.csproj.CopyComplete
+C:\Projects\FunctionPOC\Eclaims.Analytics.Internal.Domain\obj\Debug\Eclaims.Analytics.Internal.Domain.dll
+C:\Projects\FunctionPOC\Eclaims.Analytics.Internal.Domain\obj\Debug\Eclaims.Analytics.Internal.Domain.pdb
